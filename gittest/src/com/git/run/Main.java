@@ -7,8 +7,8 @@ public class Main {
 		System.out.print("Hello Git!!");
 		
 		int a =10;
-		int b =20;
-		System.out.print(a+b);
+		String test = "À¯º´½Â";
+		System.out.print(a+test);
 	}
 
 }
