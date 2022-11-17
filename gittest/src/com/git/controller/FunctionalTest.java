@@ -2,6 +2,10 @@ package com.git.controller;
 
 public class FunctionalTest {
 	public void printStr() {
-		System.out.println("½ÇÇà");
+		System.out.println("ì•ˆë…•");
+	}
+	
+	public String getString() {
+		return "finally finish github lesson";
 	}
 }
