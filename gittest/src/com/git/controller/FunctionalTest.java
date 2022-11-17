@@ -6,6 +6,6 @@ public class FunctionalTest {
 	}
 	
 	public String getString() {
-		return "梓 熱機部";
+		return "梓 熱機";
 	}
 }
