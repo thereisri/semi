@@ -2,7 +2,7 @@ package com.git.controller;
 
 public class FunctionalTest {
 	public void printStr() {
-		System.out.println("°¡³ª´Ù");
+		System.out.println("ì•ˆë…•");
 	}
 	
 	public String getString() {
